@@ -23,7 +23,7 @@ title: Home
 </div>
 
 ## About Me
-I am a a PhD candidate in Computer Science at Missouri University of Science and Technology, working on multimodal AI and computer vision for safety-critical, low-visibility environments. My research focuses on vision–language models and sensor data fusion (e.g., LiDAR, thermal, and imagery) to generate reliable, interpretable situational awareness for underground mine post-disaster response. I’m interested in building robust perception and explanation systems that remain effective under sensor degradation, domain shift, and real-world operational constraints.
+I am a PhD candidate in Computer Science at Missouri University of Science and Technology, advised by <a href="https://web.mst.edu/~cswebdb/people/madria.html" target="_blank" rel="noreferrer">Dr. Sanjay Madria</a>,, and currently working as a Graduate Research Assistant in the <a href="https://web.mst.edu/~cswebdb/about.html" target="_blank" rel="noreferrer">Wireless to Cloud Computing (W2C) Lab</a>. My research focuses on multimodal AI and computer vision for safety-critical, low-visibility environments, with an emphasis on vision–language models and sensor data fusion (e.g., LiDAR, thermal, and imagery) to generate reliable, interpretable situational awareness for underground mine post-disaster response. I’m interested in building robust perception and explanation systems that remain effective under sensor degradation, domain shift, and real-world operational constraints.
 
 ### Interests
 - Multimodal AI

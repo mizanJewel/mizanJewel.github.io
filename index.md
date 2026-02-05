@@ -12,9 +12,9 @@ title: Home
     <a href="mailto:mj9vc@mst.edu">mj9vc@mst.edu</a></p>
 
     <div class="kv">
-      <span class="badge">Google Scholar: <a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">link</a></span>
-      <span class="badge">GitHub: <a href="https://github.com/mizanJewel" target="_blank" rel="noreferrer">link</a></span>
-      <span class="badge">LinkedIn: <a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">link</a></span>
+      <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">Google Scholar</a></span>
+      <span class="badge"><a href="https://github.com/mizanJewel" target="_blank" rel="noreferrer">GitHub</a></span>
+      <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">LinkedIn</a></span>
       <span class="badge">CV: <a href="{{ '/assets/files/Mizanur_Rahman_Jewel_CV.pdf' | relative_url }}">download</a></span>
     </div>
 

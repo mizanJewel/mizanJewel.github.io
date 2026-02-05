@@ -29,7 +29,7 @@ I am a a PhD candidate in Computer Science at Missouri University of Science and
 - Multimodal AI
 - Computer Vision
 - Data Fusion
-- Vision–Language Models (LVLMs)
+- Vision–Language Models (VLMs)
 - Situational Awareness
 
 ### Education

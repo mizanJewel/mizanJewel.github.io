@@ -38,10 +38,10 @@ I am a a PhD candidate in Computer Science at Missouri University of Science and
 
 ## Recent Publications
 - **WACV 2026 (Accepted):** *Explaining the Unseen: Multimodal Vision-Language Reasoning for Situational Awareness in Underground Mining Disasters.*  
-  <span class="small">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</span> — [arXiv](https://arxiv.org/abs/2512.09092)
+  <span class="small">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</span> — [paper](https://arxiv.org/abs/2512.09092)
 
 - **IEEE BigData 2024:** *DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines.*  
-  <span class="small">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</span> — [arXiv](https://arxiv.org/abs/2411.13544)
+  <span class="small">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</span> — [paper](https://arxiv.org/abs/2411.13544)
 
 ## Recent News
 - **2026:** Received **WACV PhD Consortium 2026 travel grant**.

@@ -11,7 +11,7 @@ permalink: /publications/
   <div class="meta">IEEE/CVF WACV 2026 (Accepted) · Tucson, Arizona</div>
   <div class="meta">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</div>
   <div class="links">
-    <a href="https://arxiv.org/abs/2512.09092" target="_blank" rel="noreferrer">Paper (arXiv)</a>
+    <a href="https://arxiv.org/abs/2512.09092" target="_blank" rel="noreferrer">Paper</a>
   </div>
 </div>
 
@@ -20,8 +20,9 @@ permalink: /publications/
   <div class="meta">IEEE International Conference on Big Data (BigData) 2024 · Washington DC, USA · pp. 6279–6288</div>
   <div class="meta">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</div>
   <div class="links">
-    <a href="https://arxiv.org/abs/2411.13544" target="_blank" rel="noreferrer">Paper (arXiv)</a>
+    <a href="https://arxiv.org/abs/2411.13544" target="_blank" rel="noreferrer">Paper</a>
   </div>
+  [presentation]({{ '/assets/files/IEEE BigData PSBD 2024 DIS-Mine.pdf' | relative_url }})
 </div>
 
 <div class="pub">
@@ -29,7 +30,7 @@ permalink: /publications/
   <div class="meta">BMC Bioinformatics (2025) · 26(1), 77</div>
   <div class="meta">T. Jahin, M. H. Abrar, M. R. Jewel, T. Tasnim, M. S. Bayzid, A. Rahman</div>
   <div class="links">
-    <a href="https://link.springer.com/article/10.1186/s12859-025-06080-w" target="_blank" rel="noreferrer">Paper (arXiv)</a>
+    <a href="https://link.springer.com/article/10.1186/s12859-025-06080-w" target="_blank" rel="noreferrer">Paper</a>
   </div>
 </div>
 

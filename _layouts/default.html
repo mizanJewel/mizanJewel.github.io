@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <div class="brand">
+          <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        </div>
+        {% include nav.html %}
+      </div>
+    </header>
+
+    <main class="wrap content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>© {{ 'now' | date: '%Y' }} {{ site.title }}.</span>
+      </div>
+    </footer>
+  </body>
+</html>

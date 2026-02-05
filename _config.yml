@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Mizanur's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Mizanur Rahman Jewel
+email: mj9vc@mst.edu
+description: >-
+  PhD Candidate (Computer Science) — Multimodal AI, Computer Vision, Data Fusion, LVLMs.
+baseurl: "" # keep empty for USERNAME.github.io
+url: ""     # set to https://USERNAME.github.io when ready
+markdown: kramdown
+permalink: pretty

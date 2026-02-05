@@ -23,7 +23,7 @@ title: Home
 </div>
 
 ## About Me
-I am a PhD student in Computer Science at Missouri University of Science and Technology. My interests include multimodal AI, computer vision, data fusion, and large vision–language models (LVLMs) for situational awareness in underground mine post-disaster response.
+I am a a PhD candidate in Computer Science at Missouri University of Science and Technology, working on multimodal AI and computer vision for safety-critical, low-visibility environments. My research focuses on vision–language models and sensor data fusion (e.g., LiDAR, thermal, and imagery) to generate reliable, interpretable situational awareness for underground mine post-disaster response. I’m interested in building robust perception and explanation systems that remain effective under sensor degradation, domain shift, and real-world operational constraints.
 
 ### Interests
 - Multimodal AI

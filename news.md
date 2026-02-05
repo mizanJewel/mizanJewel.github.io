@@ -6,9 +6,12 @@ permalink: /news/
 
 ## Recent News
 
-- **2026:** WACV 2026 paper accepted (MDSE); received WACV PhD Consortium travel grant.
-- **2025:** NSF Local I-CORPS (Great Lakes Region).
-- **2025:** Mentored two undergraduate researchers (REU) on deep learning and multimodal AI.
-- **2024–2026:** Reviewer for WACV 2026, ACM SIGSPATIAL 2025, Big Data 2024.
+- **2026:** Received **WACV PhD Consortium 2026 travel grant**.
+- **2025:** Paper accepted at **IEEE/CVF WACV 2026**.
+- **2025:** **Completed NSF Local I-CORPS (Great Lakes Region)**.
+- **2025:** REU: mentored **2 undergraduates (REU 2025)**
+- **2024:** Paper accepted at **IEEE BigData 2024**
+- **2023:** Started GRA at **W2C Lab, CS, Missouri S&T**
+- **2023:** Started PhD in Computer Science  at **Missouri S&T**
 
-<p class="small">Edit this page as you get new papers, awards, internships, talks, etc.</p>
+<!-- <p class="small">Edit this page as you get new papers, awards, internships, talks, etc.</p> -->

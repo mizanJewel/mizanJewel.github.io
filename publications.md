@@ -35,4 +35,4 @@ permalink: /publications/
 
 <hr/>
 
-<p class="small">You can add “Code”, “Slides”, and “Video” links inside each publication block as needed.</p>
+<!-- <p class="small">You can add “Code”, “Slides”, and “Video” links inside each publication block as needed.</p> -->

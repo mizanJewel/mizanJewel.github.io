@@ -15,10 +15,10 @@ title: Home
       <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">Google Scholar</a></span>
       <span class="badge"><a href="https://github.com/mizanJewel" target="_blank" rel="noreferrer">GitHub</a></span>
       <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">LinkedIn</a></span>
-      <span class="badge">CV: <a href="{{ '/assets/files/Mizanur_Rahman_Jewel_CV.pdf' | relative_url }}">download</a></span>
+      <span class="badge"><a href="{{ '/assets/files/Mizanur_Rahman_Jewel_CV.pdf' | relative_url }}">CV</a></span>
     </div>
 
-    <p class="small"><em>Tip:</em> Replace the placeholder links above with your real URLs.</p>
+    <!-- <p class="small"><em>Tip:</em> Replace the placeholder links above with your real URLs.</p> -->
   </div>
 </div>
 
@@ -44,5 +44,8 @@ I am a PhD student in Computer Science at Missouri University of Science and Tec
   <span class="small">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</span> — [arXiv](https://arxiv.org/abs/2411.13544)
 
 ## Recent News
-- **2026:** Paper accepted at **WACV 2026**; received **WACV PhD Consortium 2026 travel grant**.
-- **2025:** **NSF Local I-CORPS (Great Lakes Region)**; mentored **2 undergraduates (REU 2025)**; reviewer for **WACV 2026**, **ACM SIGSPATIAL 2025**, **Big Data 2024**.
+- **2026:** Received **WACV PhD Consortium 2026 travel grant**.
+- **2025:** Paper accepted at **IEEE/CVF WACV 2026**.
+- **2025:** **Completed NSF Local I-CORPS (Great Lakes Region)**.
+- **2025:** REU: mentored **2 undergraduates (REU 2025)**
+- **2024:** Paper accepted at **IEEE BigData 2024**

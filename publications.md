@@ -21,8 +21,9 @@ permalink: /publications/
   <div class="meta">M. R. Jewel, M. Elmahallawy, S. Madria, S. Frimpong</div>
   <div class="links">
     <a href="https://arxiv.org/abs/2411.13544" target="_blank" rel="noreferrer">Paper</a>
+    <a href="{{ '/assets/files/IEEE_BigData_PSBD_2024_DIS-Mine.pdf' | relative_url }}" download>Presentation (PDF)</a>
   </div>
-  [presentation]({{ '/assets/files/IEEE BigData PSBD 2024 DIS-Mine.pdf' | relative_url }})
+  <!-- [presentation]({{ '/assets/files/IEEE BigData PSBD 2024 DIS-Mine.pdf' | relative_url }}) -->
 </div>
 
 <div class="pub">

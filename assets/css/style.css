@@ -1,11 +1,11 @@
-/* Simple academic-style GitHub Pages (Jekyll) theme — lightweight + ATS-friendly */
+/* Modern Dark theme (Jekyll) — clean research vibe */
 :root{
-  --bg:#ffffff;
-  --text:#111827;
-  --muted:#4b5563;
-  --border:#e5e7eb;
-  --link:#1d4ed8;
-  --link2:#0f766e;
+  --bg:#0b1020;
+  --text:#e5e7eb;
+  --muted:#a1a1aa;
+  --border: rgba(255,255,255,.12);
+  --link:#7dd3fc;
+  --link2:#a78bfa;
   --max: 920px;
 }
 
@@ -14,7 +14,10 @@ html,body{margin:0;padding:0}
 body{
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
   color: var(--text);
-  background: var(--bg);
+  background:
+    radial-gradient(1200px 800px at 10% -10%, rgba(125,211,252,.18), transparent 60%),
+    radial-gradient(1200px 800px at 90% 0%, rgba(167,139,250,.12), transparent 55%),
+    var(--bg);
   line-height: 1.6;
 }
 
@@ -25,7 +28,8 @@ a:hover{text-decoration:underline}
 
 .site-header{
   border-bottom: 1px solid var(--border);
-  background: #fff;
+  background: rgba(11,16,32,.70);
+  backdrop-filter: blur(8px);
 }
 .site-header .wrap{
   display:flex;
@@ -38,7 +42,7 @@ a:hover{text-decoration:underline}
 .site-title a{color:var(--text)}
 .site-nav{display:flex; gap:14px; flex-wrap:wrap}
 .site-nav a{color: var(--muted); padding:6px 8px; border-radius: 8px}
-.site-nav a.active{color: var(--text); background: #f3f4f6}
+.site-nav a.active{color: var(--text); background: rgba(255,255,255,.08)}
 
 .content{padding-top: 22px; padding-bottom: 28px}
 
@@ -65,6 +69,7 @@ hr{border:0; border-top:1px solid var(--border); margin: 1.25rem 0}
   border-radius: 14px;
   border: 1px solid var(--border);
   object-fit: cover;
+  background: rgba(255,255,255,.03);
 }
 
 .kv{
@@ -81,6 +86,7 @@ hr{border:0; border-top:1px solid var(--border); margin: 1.25rem 0}
   border: 1px solid var(--border);
   border-radius: 999px;
   color: var(--muted);
+  background: rgba(255,255,255,.03);
 }
 .badge a{color: var(--link2)}
 .small{color: var(--muted); font-size: .95rem}
@@ -90,11 +96,14 @@ hr{border:0; border-top:1px solid var(--border); margin: 1.25rem 0}
   border: 1px solid var(--border);
   border-radius: 12px;
   margin: 10px 0;
+  background: rgba(255,255,255,.03);
 }
 .pub .meta{color: var(--muted); font-size: .95rem}
 .pub .links a{margin-right: 10px}
+
 .site-footer{
   border-top: 1px solid var(--border);
   color: var(--muted);
   font-size: .95rem;
+  background: rgba(11,16,32,.45);
 }

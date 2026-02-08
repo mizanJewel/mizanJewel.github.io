@@ -15,7 +15,7 @@ title: Home
       <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">Google Scholar</a></span>
       <span class="badge"><a href="https://github.com/mizanJewel" target="_blank" rel="noreferrer">GitHub</a></span>
       <span class="badge"><a href="https://www.linkedin.com/in/mizanur-rahman-jewel-m/" target="_blank" rel="noreferrer">LinkedIn</a></span>
-      <span class="badge"><a href="{{ '/assets/files/Mizanur_Rahman_Jewel_CV.pdf' | relative_url }}">CV</a></span>
+      <span class="badge"><a href="{{ '/assets/files/Mizanur_Rahman_Jewel_PhD_CV.pdf' | relative_url }}">CV</a></span>
     </div>
 
     <!-- <p class="small"><em>Tip:</em> Replace the placeholder links above with your real URLs.</p> -->
